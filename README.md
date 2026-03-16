@@ -1,3 +1,5 @@
+# NAME: DEEPIKA G
+# REG.NO: 212224040060
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
@@ -52,7 +54,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-<img width="791" height="848" alt="image" src="https://github.com/user-attachments/assets/7395b6a1-8e20-4cb3-993f-9a0e9a7c5e79" />
+![image](https://github.com/Gdeepika-Cse/Muttiple-capacity-with-infinite-capacity/blob/main/Screenshot%202026-03-16%20102952.png)
 
 ## Result : 
 Thus, the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
